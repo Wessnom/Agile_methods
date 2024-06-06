@@ -1,0 +1,6 @@
+picachu
+voltorb
+bulbasaur
+mew
+zapdos
+mewtwo

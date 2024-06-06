@@ -1,0 +1,19 @@
+
+
+
+
+sudo docker build -t docker_lec1
+-t står för tag, docker_lec är bara namnet på vad den ska heta  
+
+sudo docker run -it docker_lec1  
+-i:et står för interactive och t:et står för terminal 
+betyder att den är öppen under tiden den kör
+
+docker build --help
+
+source <venv>/bin/activate
+
+
+cat > db_password.txt 
+- konkatenerar standard in med filnamnet jag skrev
+abcd123 - Ctrl + D - input end, tryck två gånger
