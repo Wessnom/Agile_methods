@@ -15,9 +15,9 @@ done
 
 
 
+
 # comments start with #, and the script is executed with bash download_pokemons.bash
 # the script reads the file pokemons_list.txt, which contains a list of pokemons
-
 
 # a few other helpful functions:
 
